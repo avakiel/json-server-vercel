@@ -423,6 +423,25 @@
       ],
       "director": "Francis Ford Coppola",
       "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Green Mile",
+      "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+      "rating": 8.6,
+      "release_date": "1999-12-10",
+      "genre": [
+        "crime",
+        "drama",
+        "fantasy"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse"
+      ],
+      "director": "Frank Darabont",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Green_Mile_%28movie_poster%29.jpg"
     }
   ],
   "watched": [
